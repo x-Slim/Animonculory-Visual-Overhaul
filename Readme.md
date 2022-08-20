@@ -224,6 +224,10 @@ If you are struggling for frames but want the colour correction and realism, tur
 
 If you really cannot handle the ENB, uncheck `useEffect`. Note that this will make the list look much worse and it's not intended to be played like that.
 
+#### Skyrim doesn't start but shows up in Task Manager
+
+- Disable the mod ``Skyrim Search`` in MO2 and try again without it. Make sure to end the task in Task Manager first
+
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
