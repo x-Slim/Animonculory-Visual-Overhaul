@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0 - `"The call of the wild..."`
+
+`Coming soon....`
+
 ## 2.1
 
 **Build at:** `14/07/2022 11:47:57`
