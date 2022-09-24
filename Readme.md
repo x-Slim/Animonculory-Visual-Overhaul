@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp)
 
-Wabbajack Modlist Installer by The Animonculory Team
+Wabbajack Modlist Installer by Althro & Styyx
 
 <table stlyle="border: none;">
 <tr>
@@ -45,13 +45,13 @@ Wabbajack Modlist Installer by The Animonculory Team
   - [Contact](#contact)
 
 ## Preamble
+**NOTE**: This list **REQUIRES** the paid update to Skyrim. The previous version which used the non paid update is **NO LONGER SUPPORTED.**
+
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
 
 [![AVO Showcase](https://img.youtube.com/vi/CXuDlNrPVoo/0.jpg)](https://www.youtube.com/watch?v=CXuDlNrPVoo)
-
-**NOTE**: AVO **DOES NOT** require the paid update to Skyrim. It is compatible with it, but does not require it. If you wish to use the new paid content update, please use [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -61,14 +61,14 @@ AVO has been tested extensively on a range of systems and using industry standar
 
 | Spec Category | Minimum for 30fps | Recommended for 60fps |
 |     :---:    |     :---:      |     :---:     |
-| **CPU**   | 6 core/thread @ 2.3Ghz. i9-9600t or better. | 8 Core/16 Thread CPU. i9-9900k or better. |
+| **CPU**   | 6 core/thread @ 2.3Ghz. Laptop style i9-9600t or better. | 8 Core/16 Thread CPU. i9-9900k/R7 3700x or better. |
 | **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overcloked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
 | **Ram**    | 6GB DDR5 with some stuttering.      | 8-10GB DDR5 for smoothest experience. 16GB DDR4/5 advised.     |
 | **With ENB**     | +15% to required resources.       | +10% to required resources.      |
 | **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
 | **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
-Space required: Approx 115GB (Downloads included)
+Space required: Approx 130GB (Downloads included)
 
 ## Installation
 
@@ -171,12 +171,6 @@ Make sure the dropdown box on the right is set to `SKSE` and press the `Run` but
 ## Adding mods to AVO
 
 To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
-
-### Anniversary Edition
-
-AVO supports the latest verison of Skyrim, but **does not require** the paid update. 
-
-If you have the paid update, [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) is available for you to use. Please see the linked document for more details about it.
 
 ## Updating the modlist
 
