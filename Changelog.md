@@ -4,6 +4,11 @@
 
 `Coming soon....`
 
+## 2.1.1
+
+- Updated list to install off latest version of Skyrim. 
+- Added paid CC update.
+
 ## 2.1
 
 **Build at:** `14/07/2022 11:47:57`
