@@ -4,6 +4,8 @@
 
 `Coming soon....`
 
+**Note:** AVO 3 **WILL REQUIRE** the paid Anniversary Edition update. AVO 2.1 is the last version that supports non AE builds. This change has been done to make maintenance easier and also help better integrate fitting content.
+
 ## 2.1.1
 
 - Updated list to install off latest version of Skyrim. 
