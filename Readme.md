@@ -61,7 +61,7 @@ AVO has been tested extensively on a range of systems and using industry standar
 
 | Spec Category | Minimum for 30fps | Recommended for 60fps |
 |     :---:    |     :---:      |     :---:     |
-| **CPU**   | 6 core/thread @ 2.3Ghz. Laptop style i9-9600t or better. | 8 Core/16 Thread CPU. i9-9900k/R7 3700x or better. |
+| **CPU**   | 6 core/thread @ 2.3Ghz. Laptop style i9-9600t or better. | 8 Core/16 Thread CPU. 8th gen Intel core i7/3rd Gen Ryzen x800 or better |
 | **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overcloked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
 | **Ram**    | 6GB DDR5 with some stuttering.      | 8-10GB DDR5 for smoothest experience. 16GB DDR4/5 advised.     |
 | **With ENB**     | +15% to required resources.       | +10% to required resources.      |
