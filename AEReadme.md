@@ -226,6 +226,10 @@ If you really cannot handle the ENB, uncheck `useEffect`. Note that this will ma
 
 - Disable the mod ``Skyrim Search`` in MO2 and try again without it. Make sure to end the task in Task Manager first
 
+#### Install fails on Creation Kit.ini
+
+Please install the [Skyrim Special Edition Creation Kit from steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) and restart Wabbajack afterwards.
+
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
