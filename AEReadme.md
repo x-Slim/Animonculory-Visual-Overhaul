@@ -46,7 +46,7 @@ Wabbajack Modlist Installer by Althro & Styyx
 
 ## Preamble
 
-**NOTE**: AVO-AE **REQUIRES** the paid update to Skyrim. If you do not own the full **paid** update, please use the [standard AVO](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md).
+**NOTE**: AVO-AE **REQUIRES** the paid update to Skyrim.
 
 Animonculory Visual Overhaul **Anniversary Edition** (AVO-AE) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
@@ -85,6 +85,7 @@ Prior to installing AVO-AE, please complete the following steps.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. You also need to start the games to the main menu in order to download all the creations.
+7. Install the [Skyrim Special Edition Creation Kit from steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
 
 ### Wabbajack Installation
 
@@ -97,14 +98,12 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing AVO-AE can take a while depending on your internet connection and computer. To install AVO, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Make sure the `show unofficial lists` checkbox is ticked
-![UnofficialListHelp](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/UnofficialListHelp.png)
-3. Press the download button on AVO-AE and wait for it to download.
-4. Set the installation folder to be somewhere like `C:\Games\AVOAE`. **Do not install it to your desktop or downloads folder.**
-5. The download location does not need to be on a SSD but it makes installing a bit faster
-6. Press the play button to begin.
-7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+2. Press the download button on AVO-AE and wait for it to download.
+3. Set the installation folder to be somewhere like `C:\Games\AVOAE`. **Do not install it to your desktop or downloads folder.**
+4. The download location does not need to be on a SSD but it makes installing a bit faster
+5. Press the play button to begin.
+6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ##### Problems with installation
 
