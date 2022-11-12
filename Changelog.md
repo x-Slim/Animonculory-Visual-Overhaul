@@ -2,9 +2,18 @@
 
 ## 3.0 - `"The call of the wild..."`
 
-`Coming soon....`
+**Note:** This build and future updates will be compiled using the GOG version of Skyrim AE. Steam functionality will remain. This update **REQUIRES** the paid Anniversary Edition update. 
 
-**Note:** AVO 3 **WILL REQUIRE** the paid Anniversary Edition update. AVO 2.1 is the last version that supports non AE builds. This change has been done to make maintenance easier and also help better integrate fitting content.
+**Released**: `TBC`
+
+**Info**:
+
+- Major rebuild of entire list to utilise Root Builder.
+- Added Compatability with GOG version of Skyrim AE.
+- Integrated all AE content.
+- Reworked flora setup to provide more visual fidelity.
+- Re-worked and integrated mesh overhauls.
+- More TBC...
 
 ## 2.1.1
 
