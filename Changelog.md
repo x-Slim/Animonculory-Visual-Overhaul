@@ -1,19 +1,18 @@
 # Changelog
 
-## 3.0 - `"The call of the wild..."`
+## 2.2
 
-**Note:** This build and future updates will be compiled using the GOG version of Skyrim AE. Steam functionality will remain. This update **REQUIRES** the paid Anniversary Edition update. 
+**Note:** This build and future updates will be compiled using the GOG version of Skyrim AE. Steam functionality will remain.
 
 **Released**: `TBC`
 
 **Info**:
 
-- Major rebuild of entire list to utilise Root Builder.
-- Added Compatability with GOG version of Skyrim AE.
-- Integrated all AE content.
-- Reworked flora setup to provide more visual fidelity.
-- Re-worked and integrated mesh overhauls.
-- More TBC...
+- Updated list to utilise RootBuilder
+- Updated mods which required updates
+- Removed AE CC requirement
+- Removed a few mods that would be considered feature creep.
+- **NOT SAVE SAFE!**
 
 ## 2.1.1
 
