@@ -45,9 +45,8 @@ Wabbajack Modlist Installer by Althro & Styyx
   - [Contact](#contact)
 
 ## Preamble
-**NOTE**: This list **REQUIRES** the paid update to Skyrim. The previous version which used the non paid update is **NO LONGER SUPPORTED.**
 
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.640/659 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
 
@@ -83,7 +82,6 @@ Prior to installing AVO, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. You also need to start the games to the main menu in order to download all the creations.
 
 ### Wabbajack Installation
 
@@ -123,34 +121,27 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-### Game Folder
+### Root Builder
 
-AVO uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+To enable compatability with the GOG versions of Skyrim, AVO uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
 
 ### ENB
-AVO is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list.
+AVO comes with Solas Weathers & ENB all ready and set up to go. If you wish to change the ENB, ensure that you are using one compatible with Solas and please follow below.
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `AVO\tools\Enb Organizer\Games\SkyrimSE\Preset`.
+**NOTE!**: Screenshots save to `Overwrite/Root`.
 
-#### Using ENB Manager
+#### Change the ENB
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
-
-If the image below comes up, simply press OK. It is nothing to be concerned about.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
-
-Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
-
-Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%205.png)
-
-For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+1. Download whatever ENB you wish to use.
+3. Click on the `Spanner and Screwdriver` icon in MO2 and select `Root Builder`.
+4. Tick the `Installer` checkbox under `Settings`.
+![Rootbuilder config](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/RootbuilderConfig.webp)
+5. Add the ENB as a new mod in MO2. Rootbuilder should assign it properly.
+6. Verify that Rootbuilder has installed the ENB properly. It should look similar to the picture below:
+![ENB Rootbuilder Check](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ENBRootBuild.webp)
+7. Disable Solas ENB.
+8. Activate your new ENB.
+9. Enjoy your new ENB.
 
 ## Playing the List
 
@@ -180,7 +171,11 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-Placeholder for your Readme.
+### xEdit based tool configuration for GOG
+
+In order to get xEdit based tools to work with the GOG edition of the game, you need to add arguments which specify where the `data`, `ini` and `plugins` are. An example of this is given below:
+
+`-D:"C:\Games\GOG Galaxy\Games\Skyrim Anniversary Edition\Data" -I:"C:\Users\Althro\Documents\My Games\Skyrim Special Edition GOG\Skyrim.ini" -P:"C:\Games\AVO\profiles\AVO [GOG]\Plugins.txt" -IKnowWhatImDoing -PseudoESL`
 
 ### Tweaking the Game Settings
 
@@ -191,7 +186,6 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 - `Shadow Resolution`: 2048
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
-
 
 #### ENB
 
