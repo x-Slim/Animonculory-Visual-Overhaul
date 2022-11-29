@@ -4,7 +4,7 @@
 
 **Note:** This build and future updates will be compiled using the GOG version of Skyrim AE. Steam functionality will remain.
 
-**Released**: `TBC`
+**Released**: `29/11/22`
 
 **Info**:
 
