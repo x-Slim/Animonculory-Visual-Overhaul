@@ -1,6 +1,18 @@
 # Changelog
 
-## 2.2
+## 2.2.2
+
+**Released**: `soon`
+
+**Info**:
+
+- Updated mods that required updates
+- Added new snow texture to blend better.
+- Added Majestic Mountains to improve consistency.
+- Removed HMB II and added some NPC overhauls.
+- Regenned Lods.
+
+## 2.2.1
 
 **Note:** This build and future updates will be compiled using the GOG version of Skyrim AE. Steam functionality will remain.
 
