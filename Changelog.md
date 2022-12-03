@@ -10,6 +10,7 @@
 - Added new snow texture to blend better.
 - Added Majestic Mountains to improve consistency.
 - Removed HMB II and added some NPC overhauls.
+- Swapped to E.V.C ENB to provide better visual fidelity and fit liist vibe more.
 - Regenned Lods.
 
 ## 2.2.1
