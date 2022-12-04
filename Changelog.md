@@ -1,8 +1,8 @@
 # Changelog
 
-## 2.2.2
+## 2.3
 
-**Released**: `soon`
+**Released**: `04/12/22`
 
 **Info**:
 
@@ -10,6 +10,8 @@
 - Added new snow texture to blend better.
 - Added Majestic Mountains to improve consistency.
 - Removed HMB II and added some NPC overhauls.
+- Added some animations to help improve feeling of the list.
+- Added cloaks to go with the new animations.
 - Swapped to E.V.C ENB to provide better visual fidelity and fit liist vibe more.
 - Regenned Lods.
 
