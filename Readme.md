@@ -193,11 +193,11 @@ AVO ships with an ENB setup that is configured to match the look of the list. If
 
 ##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
 
-1. Press [Shift+Enter] to open the ENB menu.
+1. Press [Home] to open the ENB menu.
 2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
 3. Scroll down until you see letterbox and untick it.
 4. Press the save configuration button.
-5. Press [Shift+Enter] to return to the game.
+5. Press [Home] to return to the game.
 
 ##### Turning off settings for FPS
 
