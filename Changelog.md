@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.3.1
+
+**Info**:
+
+- Fixed issue with MCM helper not being present.
+- Fixed issue with [low res dungeon totems](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues/16)
+- Added Terrain Parallax settings within ENB. 
+- Updated ENB binaries.
+
 ## 2.3
 
 **Released**: `04/12/22`
