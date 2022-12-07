@@ -2,10 +2,13 @@
 
 ## 2.3.1
 
+**Released**: `07/12/22`
+
 **Info**:
 
 - Fixed issue with MCM helper not being present.
 - Fixed issue with [low res dungeon totems](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/issues/16)
+- Added [Horse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/79627)
 - Added Terrain Parallax settings within ENB. 
 - Updated ENB binaries.
 
