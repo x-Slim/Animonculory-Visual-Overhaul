@@ -35,6 +35,7 @@ Wabbajack Modlist Installer by Althro & Styyx
     - [BethINI](#bethini)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
+    - [Profile selection](#profile-selection)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)
