@@ -145,10 +145,20 @@ AVO comes with Solas Weathers & ENB all ready and set up to go. If you wish to c
 
 ## Playing the List
 
+### Profile selection
+
+**DO NOT IGNORE THIS STEP!**
+
+Owing to the list now supporting both steam and GOG editions of the game, you **must select** the correct profile for your game copy. **WARNING!**: Failure to do so will result in your game not starting. **DO NOT IGNORE THIS STEP!**
+
+For Steam, select `AVO [STEAM]`. For GOG, select `AVO [GOG]`.
+
+**DO NOT IGNORE THIS STEP!**
+
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
+Make sure the dropdown box on the right is set to the SKSE corresponding to your game copy (`SKSE [STEAM]` or `SKSE [GOG]`) and press the `Run` button.
 
 ### In-Game MCM options
 `AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
