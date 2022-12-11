@@ -1,5 +1,33 @@
 # Changelog
 
+## 2.4
+
+**Released**: `soon`
+
+**Info**:
+
+- Fixed complex terrain parallax errors
+- Regenned Lods
+- **NOT SAVE SAFE**
+
+**Updated**:
+
+- [Crashlogger](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- [EmbersXD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+- [Complementary Grass Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/71562)
+- [Horse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/79627)
+
+**Removed**:
+
+- [Northern Shores](https://www.nexusmods.com/skyrimspecialedition/mods/27041) (Parallax error)
+- [UPOT](https://www.nexusmods.com/skyrimspecialedition/mods/21166)
+
+**Added**:
+
+- [Kart CSSET (Cleaned Textures)](https://www.nexusmods.com/skyrimspecialedition/mods/38775)
+- [Anniversary Edition Cleaned and Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58120)
+- [Skyrim Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/54860)
+
 ## 2.3.1
 
 **Released**: `07/12/22`
