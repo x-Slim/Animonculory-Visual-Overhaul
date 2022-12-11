@@ -24,8 +24,10 @@
 
 **Added**:
 
-- [Kart CSSET (Cleaned Textures)](https://www.nexusmods.com/skyrimspecialedition/mods/38775)
 - [Anniversary Edition Cleaned and Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58120)
+- [Kart CSSET (Cleaned Textures)](https://www.nexusmods.com/skyrimspecialedition/mods/38775)
+- [Puddles HD version](https://www.nexusmods.com/skyrimspecialedition/mods/79278)
+- [Revamped Quiver](https://www.nexusmods.com/skyrimspecialedition/mods/15942)
 - [Skyrim Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/54860)
 
 ## 2.3.1
