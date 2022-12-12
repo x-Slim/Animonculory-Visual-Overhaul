@@ -2,13 +2,14 @@
 
 ## 2.4
 
-**Released**: `soon`
+**Released**: `11/12/22`
 
 **Info**:
 
 - Fixed complex terrain parallax errors
 - Regenned Lods
 - **NOT SAVE SAFE**
+- `12/12/22` Hotfix for steam profile to sync mods.
 
 **Updated**:
 
