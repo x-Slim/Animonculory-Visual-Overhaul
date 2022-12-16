@@ -31,10 +31,11 @@ Wabbajack Modlist Installer by Althro & Styyx
       - [Downloading and Installing AVO-AE](#downloading-and-installing-avo-ae)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
+    - [Root Builder](#root-builder)
     - [BethINI](#bethini)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
+    - [Profile selection](#profile-selection)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
     - [Starting the Game](#starting-the-game)
@@ -46,9 +47,9 @@ Wabbajack Modlist Installer by Althro & Styyx
 
 ## Preamble
 
-**NOTE**: AVO-AE **REQUIRES** the paid update to Skyrim.
+**NOTE**: AVO-AE **REQUIRES** the paid update to Skyrim. If you do not own it, please use the [standard version](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md).
 
-Animonculory Visual Overhaul **Anniversary Edition** (AVO-AE) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.640/659 (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/animonculory-visual-overhaul), a selection of screenshots can be viewed [here](https://imgur.com/a/mcpBqFW) and a video showcase by DroppedIceCream can be viewed below.
 
@@ -69,7 +70,7 @@ AVO-AE has been tested extensively on a range of systems and using industry stan
 | **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
 | **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
-Space required: Approx 130GB (Downloads included)
+Space required: Approx 150GB (Downloads included)
 
 ## Installation
 
@@ -84,8 +85,9 @@ Prior to installing AVO-AE, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. You also need to start the games to the main menu in order to download all the creations.
-7. Install the [Skyrim Special Edition Creation Kit from steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
+6. **[STEAM ONLY]** You also need to start the games to the main menu in order to download all the creations.
+
+***
 
 ### Wabbajack Installation
 
@@ -126,54 +128,61 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation
 
-### Game Folder
+### Root Builder
 
-AVO-AE uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Game Root`. You don’t need to copy anything at all.
+To enable compatability with the GOG versions of Skyrim, AVO uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
+
+***
 
 ### ENB
-AVO-AE is designed for use with an ENB and comes with [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list. 
+AVO comes with Solas Weathers & ENB all ready and set up to go. If you wish to change the ENB, ensure that you are using one compatible with Solas and please follow below.
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `AVOAE\Tools\ENB Organizer\Games\SkyrimSE\Presets`.
+**NOTE!**: Screenshots save to `Overwrite/Root`.
 
-#### Using ENB Manager
+#### Change the ENB
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big `Run` button next to it. Run the program named `Pick Your ENB` from Mod Organizer 2.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%201.png?raw=true)
-
-If the image below comes up, simply press OK. It is nothing to be concerned about.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
-
-Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
-
-Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
-
-![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%205.png)
-
-For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+1. Download whatever ENB you wish to use.
+3. Click on the `Spanner and Screwdriver` icon in MO2 and select `Root Builder`.
+4. Tick the `Installer` checkbox under `Settings`.
+![Rootbuilder config](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/RootbuilderConfig.webp)
+5. Add the ENB as a new mod in MO2. Rootbuilder should assign it properly.
+6. Verify that Rootbuilder has installed the ENB properly. It should look similar to the picture below:
+![ENB Rootbuilder Check](https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ENBRootBuild.webp)
+7. Disable Solas ENB.
+8. Activate your new ENB.
+9. Enjoy your new ENB.
 
 ## Playing the List
+
+### Profile selection
+
+**DO NOT IGNORE THIS STEP!**
+
+Owing to the list now supporting both steam and GOG editions of the game, you **must select** the correct profile for your game copy. **WARNING!**: Failure to do so will result in your game not starting. **DO NOT IGNORE THIS STEP!**
+
+For Steam, select `AVO [STEAM]`. For GOG, select `AVO [GOG]`.
+
+**DO NOT IGNORE THIS STEP!**
+
+***
 
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
+Make sure the dropdown box on the right is set to the SKSE corresponding to your game copy (`SKSE [STEAM]` or `SKSE [GOG]`) and press the `Run` button.
 
 ### In-Game MCM options
-`AVO-AE has no MCM options required, however you can load the SmoothCam preset if you wish.`
+`AVO has no MCM options required, however you can load the SmoothCam preset if you wish.`
 
 - This serves as a placeholder in case you want to use the Readme as some sort of template.
 
 ### Starting the Game
 
-- Placeholder for your Readme. By default, AVO-AE uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
+- Placeholder for your Readme. By default, AVO uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953).
 	
-## Adding mods to AVO-AE
+## Adding mods to AVO
 
-To safely add mods to AVO-AE, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
+To safely add mods to AVO, please read [the guide](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Adding%20mods%20to%20AVO.md), which covers some of the details you need to know.
 
 ## Updating the modlist
 
@@ -183,7 +192,11 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-Placehoder for your Readme.
+### xEdit based tool configuration for GOG
+
+In order to get xEdit based tools to work with the GOG edition of the game, you need to add arguments which specify where the `data`, `ini` and `plugins` are. An example of this is given below:
+
+`-D:"C:\Games\GOG Galaxy\Games\Skyrim Anniversary Edition\Data" -I:"C:\Users\Althro\Documents\My Games\Skyrim Special Edition GOG\Skyrim.ini" -P:"C:\Games\AVO\profiles\AVO [GOG]\Plugins.txt" -IKnowWhatImDoing -PseudoESL`
 
 ### Tweaking the Game Settings
 
@@ -197,15 +210,15 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 #### ENB
 
-AVO-AE ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
+AVO ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
 
 ##### Removing the letterbox (in general as the default ENB doesn't have that effect enabled)
 
-1. Press [Shift+Enter] to open the ENB menu.
+1. Press [Home] to open the ENB menu.
 2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
 3. Scroll down until you see letterbox and untick it.
 4. Press the save configuration button.
-5. Press [Shift+Enter] to return to the game.
+5. Press [Home] to return to the game.
 
 ##### Turning off settings for FPS
 
@@ -219,15 +232,6 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Complex Grass
 
 If you really cannot handle the ENB, uncheck `useEffect`. Note that this will make the list look much worse and it's not intended to be played like that.
-
-
-#### Skyrim doesn't start but shows up in Task Manager
-
-- Disable the mod ``Skyrim Search`` in MO2 and try again without it. Make sure to end the task in Task Manager first
-
-#### Install fails on Creation Kit.ini
-
-Please install the [Skyrim Special Edition Creation Kit from steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) and restart Wabbajack afterwards.
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
