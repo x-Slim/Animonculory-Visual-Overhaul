@@ -1,5 +1,31 @@
 # Changelog
 
+## 2.4 - "Reactivation"
+
+**Build at**: `soon`
+
+**NOT SAVE SAFE!**
+
+**Info**:
+
+- Reactivation based upon AVO 2.4.
+- Changes relative to AVO 2.4
+
+**Added*:
+- AE Cleaned and Upscaled
+- CC Rebalanced and Varients
+- Dragonbreaker UI
+- Dragonbreaker UI TureHud
+- Rebalancing AE Quests
+- Sexier CC Armors
+- Thwack
+- Unofficial CC Patches
+- Unofficial HD Music and Voice
+- Voiced addon for: Fishing, Grey Cowl Returns, Saints and Seducers, Redguard armorment. 
+
+**Removed**:
+- Textures for individual CC (Replaced with full AE cleaned)
+
 ## 2.1
 
 **Build at:** `14/07/2022 11:52:35`
