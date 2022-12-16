@@ -31,7 +31,7 @@ Wabbajack Modlist Installer by Althro & Styyx
       - [Downloading and Installing AVO](#downloading-and-installing-avo)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
+    - [Root Builder](#root-builder)
     - [BethINI](#bethini)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
@@ -68,7 +68,7 @@ AVO has been tested extensively on a range of systems and using industry standar
 | **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
 | **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
 
-Space required: Approx 130GB (Downloads included)
+Space required: Approx 141GB (Downloads included)
 
 ## Installation
 
@@ -83,6 +83,8 @@ Prior to installing AVO, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+
+***
 
 ### Wabbajack Installation
 
@@ -126,6 +128,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 To enable compatability with the GOG versions of Skyrim, AVO uses a tool known as Root Builder. For more details regarding it, please view [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and our [guide to it](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md).
 
+***
+
 ### ENB
 AVO comes with Solas Weathers & ENB all ready and set up to go. If you wish to change the ENB, ensure that you are using one compatible with Solas and please follow below.
 
@@ -155,6 +159,8 @@ Owing to the list now supporting both steam and GOG editions of the game, you **
 For Steam, select `AVO [STEAM]`. For GOG, select `AVO [GOG]`.
 
 **DO NOT IGNORE THIS STEP!**
+
+***
 
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
@@ -187,6 +193,14 @@ Updating is like installing the list. Simply make sure your paths are the same a
 In order to get xEdit based tools to work with the GOG edition of the game, you need to add arguments which specify where the `data`, `ini` and `plugins` are. An example of this is given below:
 
 `-D:"C:\Games\GOG Galaxy\Games\Skyrim Anniversary Edition\Data" -I:"C:\Users\Althro\Documents\My Games\Skyrim Special Edition GOG\Skyrim.ini" -P:"C:\Games\AVO\profiles\AVO [GOG]\Plugins.txt" -IKnowWhatImDoing -PseudoESL`
+
+### I own the AE paid addon. Is there a version I can use/how do I use it?
+
+Please use [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md) for full integration of the creation club content.
+
+Should you not want the integration, disable the mod called `CC Config`. **NOTE**: You will need to resolve any new conflicts that appear with activating the CC content.
+
+***
 
 ### Tweaking the Game Settings
 
@@ -222,10 +236,6 @@ If you are struggling for frames but want the colour correction and realism, tur
 - Complex Grass
 
 If you really cannot handle the ENB, uncheck `useEffect`. Note that this will make the list look much worse and it's not intended to be played like that.
-
-#### Skyrim doesn't start but shows up in Task Manager
-
-- Disable the mod ``Skyrim Search`` in MO2 and try again without it. Make sure to end the task in Task Manager first
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
