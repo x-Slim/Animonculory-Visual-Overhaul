@@ -11,9 +11,10 @@
 - Reactivation based upon AVO 2.4.
 - Changes relative to AVO 2.4
 
-**Added*:
+**Added**:
 - AE Cleaned and Upscaled
 - CC Rebalanced and Varients
+- Custom AMOT profile
 - Dragonbreaker UI
 - Dragonbreaker UI TureHud
 - Rebalancing AE Quests
@@ -25,6 +26,7 @@
 
 **Removed**:
 - Textures for individual CC (Replaced with full AE cleaned)
+- Skyrim Project Optimisation
 
 ## 2.1
 
