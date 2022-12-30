@@ -10,7 +10,13 @@
 
 - Reworked some landscape textures to blend better.
 - Reworked armors to give more of a overhauled vibe.
+- Reworked cities to fit a bit better.
 - Switched to stock game and moved GOG edition to LTSC.
+- Combed through texture and normal conflicts to give greater consistency and visual fidelity.
+- Combed through mesh conflicts and removed **very** high poly meshes where sensible and alternatives were availiable.
+- Adjusted INI files to give a little more performance without loss of visual quality.
+- Regenned all genned files
+- **NOT SAVE SAFE**
 
 ## 2.4
 
