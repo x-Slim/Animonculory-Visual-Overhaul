@@ -1,5 +1,17 @@
 # Changelog
 
+## 3.0 - "Lock, Stock and Barrel"
+
+**Released**: `soon`
+
+**NOTE!**: The GOG edition of AVO is now **exclusively hosted on github** and is on a **LTSC update cycle**. It will only recieve updates after major version changes.
+
+**Info**:
+
+- Reworked some landscape textures to blend better.
+- Reworked armors to give more of a overhauled vibe.
+- Switched to stock game and moved GOG edition to LTSC.
+
 ## 2.4
 
 **Released**: `11/12/22`
