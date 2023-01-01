@@ -8,9 +8,9 @@
 
 **Info**:
 
-- Reworked some landscape textures to blend better.
-- Reworked armors to give more of a overhauled vibe.
-- Reworked cities to fit a bit better.
+- Major rework of lighting and visual FX.
+- Removed ENB in favour of Reshade.
+- Tweaked/Reworked all areas of graphics to fit better with new lighting/post processing.
 - Switched to stock game and moved GOG edition to LTSC.
 - Combed through texture and normal conflicts to give greater consistency and visual fidelity.
 - Combed through mesh conflicts and removed **very** high poly meshes where sensible and alternatives were availiable.
