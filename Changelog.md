@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.0 - "Lock, Stock and Barrel"
+## 3.0 - "...The rebirth"
 
 **Released**: `soon`
 
@@ -14,6 +14,8 @@
 - Switched to stock game and moved GOG edition to LTSC.
 - Combed through texture and normal conflicts to give greater consistency and visual fidelity.
 - Combed through mesh conflicts and removed **very** high poly meshes where sensible and alternatives were availiable.
+- Fixed issues with Dwemer Glowmaps
+- Fixed issues with textures not blending properly.
 - Adjusted INI files to give a little more performance without loss of visual quality.
 - Regenned all genned files
 - **NOT SAVE SAFE**
