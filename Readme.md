@@ -62,8 +62,8 @@ AVO has been tested extensively on a range of systems and using industry standar
 | Spec Category | Minimum for 30fps | Recommended for 60fps |
 |     :---:    |     :---:      |     :---:     |
 | **CPU**   | 6 core/thread @ 2.3Ghz. Laptop style i9-9600t or better. | 8 Core/16 Thread CPU. 8th gen Intel core i7/3rd Gen Ryzen x800 or better |
-| **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overcloked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
-| **Ram**    | 6GB DDR5 with some stuttering.      | 8-10GB DDR5 for smoothest experience. 16GB DDR4/5 advised.     |
+| **Video Card**    | 6GB Vram clocked between 1290 and 1390. If you have an overclocked model with 4GB (such as a GTX 1060 laptop), you may be able to run it. A card such as the GTX 1060 would work for this. | 8+GB VRAM, but no more than 10 needed, clocked between 1400 and 1500. A card such as a GTX 1080 or 1080ti or better would be ideal.      |
+| **Ram**    | 6GB DDR4 with some stuttering.      | 8-10GB DDR5 for smoothest experience. 16GB DDR4/5 advised.     |
 | **With ENB**     | +15% to required resources.       | +10% to required resources.      |
 | **Expected peformance**    | 35fps outdoors wiith 40+ indoors. Loading times between 20 to 30 seconds.       | 59-112fps outdoors and indoors with loading times around 10 to 15 seconds. Cap FPS to achieve smoother experience.      |
 | **Expected non ENB performance**    | 40fps outdoors with 50fps indoors. Loading times between 15 and 40 seconds.      | 100+ fps both outdoors and indoors with loading times between 5 and 15 seconds.     |
@@ -81,7 +81,7 @@ Prior to installing AVO, please complete the following steps.
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
-4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
+4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. [Here's a tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to help achieve this if you only have 1 drive.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 
 ***
