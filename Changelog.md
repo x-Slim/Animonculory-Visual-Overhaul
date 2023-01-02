@@ -4,21 +4,22 @@
 
 **Released**: `soon`
 
-**NOTE!**: The GOG edition of AVO is now **exclusively hosted on github** and is on a **LTSC update cycle**. It will only recieve updates after major version changes.
+**NOTE!**: The GOG edition of AVO is now **exclusively hosted on github**, is for the **ANNIVERSARY EDITION** only and is on a **LTSC update cycle**. It will only recieve updates after major version changes.
 
 **Info**:
 
-- Major rework of lighting and visual FX.
+- **MAJOR UPDATE - NOT SAVE SAFE**
+- Updated and combed through all meshes and textures.
+- Fixed mesh and normal conflicts to provide greater level of consistency.
+- Reworked many areas of textures to fit better with new lighting/post processing.
+- Completely reworked lighting and visual FX.
 - Removed ENB in favour of Reshade.
-- Tweaked/Reworked all areas of graphics to fit better with new lighting/post processing.
-- Switched to stock game and moved GOG edition to LTSC.
-- Combed through texture and normal conflicts to give greater consistency and visual fidelity.
-- Combed through mesh conflicts and removed **very** high poly meshes where sensible and alternatives were availiable.
-- Fixed issues with Dwemer Glowmaps
-- Fixed issues with textures not blending properly.
-- Adjusted INI files to give a little more performance without loss of visual quality.
-- Regenned all genned files
-- **NOT SAVE SAFE**
+- Removed Root Builder and switched to Stock Game functionality for better compatability.
+- Fixed issue with Dwemer Glowmaps.
+- Adjusted INI's and Lods to improve consistency and performance.
+- Fixed issues with Bodyslide not mapping to armors correctly.
+- Regenned all genned files.
+- Removed GOG compatability - Dedicated GOG AE version will be availiable *soon*.
 
 ## 2.4
 
